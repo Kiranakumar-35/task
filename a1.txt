@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwertyuio
+=======
+kiru updated in feature -x
+>>>>>>> feature-y
